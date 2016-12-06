@@ -27,3 +27,9 @@
 *.exe
 *.out
 *.app
+
+# Archives
+*.zip
+
+# Project-specific
+/Modele
