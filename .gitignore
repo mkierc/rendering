@@ -33,3 +33,5 @@
 
 # Project-specific
 /Modele
+/debug
+/release
