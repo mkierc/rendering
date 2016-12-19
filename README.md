@@ -27,3 +27,9 @@
 
 #### Zadanie 32 - Zastosowanie geometry shadera do wizualizacji wektorów normalnych
 - [ ] Napisać geometry shader, który zamienia każdy trójkąt na wejściu na "fraktal" podobny do tego ze slajdu 223 z wykładu
+
+#### Zadanie 34 - Rendering cieni dla światła punktowego wraz z PCF
+- [ ] Dodać drugie źródło światła i cień z nim związany
+
+#### Zadanie 36 - Efekt rozmycia jasnych elementów sceny
+- [ ] Dodać parametr określający promień rozmycia gaussowskiego
